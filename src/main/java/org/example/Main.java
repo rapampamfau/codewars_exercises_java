@@ -1,10 +1,6 @@
 package org.example;
 
-import org.example.excercises.DescendingOrder;
-import org.example.excercises.ListFilteringOne;
-
-import java.util.List;
-import java.util.Random;
+import org.example.excercises.CamelCaseBuilder;
 
 public class Main {
     public static void main(String[] args) {
@@ -25,6 +21,9 @@ public class Main {
 
         //@Descending order
         //        System.out.println(DescendingOrder.sortDesc(324238));
+
+        //@Camel case builder
+        //      System.out.println(CamelCaseBuilder.toCamelCase("the_Stealth_Warrior"));
 
     }
 }
