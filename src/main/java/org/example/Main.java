@@ -2,6 +2,7 @@ package org.example;
 
 import org.example.excercises.BreakCamelCase;
 import org.example.excercises.CamelCaseBuilder;
+import org.example.excercises.SimplePigLatin;
 
 public class Main {
     public static void main(String[] args) {
@@ -29,5 +30,7 @@ public class Main {
         //@BreakCamelCase
         //        System.out.println(BreakCamelCase.camelCase("camelCasing"));
 
+        //@SimplePigLatin
+        System.out.println(SimplePigLatin.pigIt("Pig latin is cool"));
     }
 }
