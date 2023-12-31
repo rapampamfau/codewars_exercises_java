@@ -31,6 +31,6 @@ public class Main {
         //        System.out.println(BreakCamelCase.camelCase("camelCasing"));
 
         //@SimplePigLatin
-        System.out.println(SimplePigLatin.pigIt("Pig latin is cool"));
+        //        System.out.println(SimplePigLatin.pigIt("Pig latin is cool"));
     }
 }
