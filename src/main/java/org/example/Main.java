@@ -2,6 +2,7 @@ package org.example;
 
 import org.example.excercises.BreakCamelCase;
 import org.example.excercises.CamelCaseBuilder;
+import org.example.excercises.GreedIsGood;
 import org.example.excercises.SimplePigLatin;
 
 public class Main {
@@ -32,5 +33,8 @@ public class Main {
 
         //@SimplePigLatin
         //        System.out.println(SimplePigLatin.pigIt("Pig latin is cool"));
+
+        //@GreedIsGood
+        //System.out.println(GreedIsGood.greedy(new int[]{1,1,1,3,1}));
     }
 }
