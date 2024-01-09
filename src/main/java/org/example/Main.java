@@ -36,5 +36,8 @@ public class Main {
 
         // @ReturnNegative
         //        System.out.println(ReturnNegative.makeNegative(5));
+
+        //@ExesAndOhs
+        //        System.out.println(ExesAndOhs.getXO("xxsdsdOOXsx"));
     }
 }
