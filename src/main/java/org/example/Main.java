@@ -39,5 +39,15 @@ public class Main {
 
         //@ExesAndOhs
         //        System.out.println(ExesAndOhs.getXO("xxsdsdOOXsx"));
+
+        //@TicTacToeChecker
+        //        System.out.println(TicTacToeChecker.isSolved(new int[][]
+        //                {
+        //                        {0, 2, 0},
+        //                        {0, 2, 1},
+        //                        {1, 2, 0}
+        //                }
+        //                )
+        //        );
     }
 }
